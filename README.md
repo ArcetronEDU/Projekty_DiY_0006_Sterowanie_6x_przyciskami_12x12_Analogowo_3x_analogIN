@@ -1,4 +1,4 @@
-# -Projekty_DiY_0006_Sterowanie_przyciskami_12x12_-Analogowo-_3x_analogIN
+# -Projekty_DiY_0006_Sterowanie_6x_przyciskami_12x12_-Analogowo-_3x_analogIN
 Materiały dodatkowe do filmów "Arduino to takie proste" https://www.youtube.com/@arcetron
 
 Pliki są w formacie wektorowym [.svg] i możesz je otworzyć i wydrukować używając programu: InkScape
